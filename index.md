@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Taking constructed back to a time where net decking was not possible
+
+Constructed got less challenging when net decking (looking up well tested decks online) became possible... Random Constructed is a format that attempts to make constructed more interesting taking it back to the good old days where you had to innovate.
 
 You can use the [editor on GitHub](https://github.com/randomconstructed/randomconstructed.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
