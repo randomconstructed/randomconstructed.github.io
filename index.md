@@ -2,40 +2,13 @@
 
 Constructed got less challenging when net decking (looking up well tested decks online) became possible... Random Constructed is a format that attempts to make constructed more interesting taking it back to the good old days where you had to innovate.
 
-You can use the [editor on GitHub](https://github.com/randomconstructed/randomconstructed.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Every week, 3 sets are picked at random from which to construct decks and battle. The Bitcoin Cash blockchain is used as a source of unbiased randomness to pick the sets.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Randomness comes from the hash of the first block mined after noon on Sunday. The new week's format is locked in from 4pm GMT on Sunday and lasts exactly one week. A new tweet is posted [on Twitter](https://twitter.com/RandomConst) when the sets change. 
 
-<iframe height="400px" width="100%" src="https://repl.it/repls/TightInsubstantialBookmarks?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+The number of combinations of three sets from the current 95 in the [set list](https://github.com/randomconstructed/randomconstructed/blob/master/sets.csv) is 138415 so no net decking will be possible :D
 
-### Markdown
+Happy building!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/randomconstructed/randomconstructed.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Twitter not working? Run the code below yourself to get this week's sets:
+<iframe height="400px" width="100%" src="https://repl.it/@randomconst/randomconstructed?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
