@@ -2,7 +2,7 @@
 
 Constructed got less challenging when net decking (looking up well tested decks online) became possible... Random Constructed is a format that attempts to make constructed more interesting taking it back to the good old days where you had to innovate.
 
-Randomness comes from the hash of the first block mined after noon on Sunday. The new week's format is locked in from 4pm GMT on Sunday and lasts exactly one week. A new tweet is posted [on Twitter](https://twitter.com/RandomConst) when the sets change. 
+Randomness comes from the hash of the first block mined after noon on Sunday. The new week's format is locked in from 4pm GMT on Sunday and lasts exactly one week. A new tweet is posted on [Twitter](https://twitter.com/RandomConst) when the sets change. 
 
 The number of combinations of 3 sets from the current 95 in the [set list](https://github.com/randomconstructed/randomconstructed/blob/master/sets.csv) is 138415 so no net decking will be possible :D
 
