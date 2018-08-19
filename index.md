@@ -2,7 +2,7 @@
 
 Constructed got less challenging when net decking (looking up well tested decks online) became possible... Random Constructed is a format that attempts to make constructed more interesting, taking it back to the good old days where you had to innovate.
 
-It does this be picking 3 random sets at random each week to form a deck building card pool. Similar to the sealed limited format, this format is designed to be use once. Everytime you rebuild based on past experience is an advantage you have on others. Meet with your friend IRL or online and challenge them once a week!
+It does this by picking 3 sets at random each week to form a deck building card pool. Similar to the sealed limited format, this format is designed to be use once. Everytime you rebuild based on past experience is an advantage you have on others. Meet with your friend IRL or online and challenge them once a week!
 
 Randomness comes from the hash of the first Bitcoin Cash block mined after noon on Sunday. The new week's format is locked in from 4pm GMT on Sunday and lasts exactly one week. Find this week's sets on [Twitter](https://twitter.com/RandomConst).
 
