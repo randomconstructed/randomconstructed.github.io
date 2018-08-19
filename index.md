@@ -1,4 +1,4 @@
-#### Taking constructed back to a time with no net decking
+### Taking constructed back to a time with no net decking
 
 Constructed got less challenging when net decking (looking up well tested decks online) became possible... Random Constructed is a format that attempts to make constructed more interesting, taking it back to the good old days where you had to innovate.
 
