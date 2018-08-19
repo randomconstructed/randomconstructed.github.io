@@ -11,6 +11,7 @@ The number of combinations of 3 sets from the current 95 in the [set list](https
 Click the green play button to generate this week's sets yourself:
 <iframe height="400px" width="100%" src="https://repl.it/@randomconst/randomconstructed?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+
 ### What do you with these sets now?
 
 1) Paste the link generated for you above into a browser to view and search the card pool.
