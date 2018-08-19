@@ -8,5 +8,5 @@ The number of combinations of 3 sets from the current 95 in the [set list](https
 
 Happy building!
 
-Twitter not working? Run the code below yourself to get this week's sets:
+Twitter not working? Run the code below yourself by clicking the green play button to get this week's allowed sets:
 <iframe height="400px" width="100%" src="https://repl.it/@randomconst/randomconstructed?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
