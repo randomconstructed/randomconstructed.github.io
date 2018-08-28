@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Random Constructed
 description: Every week, 3 sets are picked at random from which to construct decks and battle. The Bitcoin Cash blockchain is used as a source of unbiased randomness to pick the sets.
-logo: https://rawgit.com/randomconstructed/randomconstructed.github.io/master/die.png
+logo: die.png
+favicon: favicon.ico
