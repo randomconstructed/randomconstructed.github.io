@@ -12,10 +12,10 @@ Click the green play button to generate this week's sets yourself:
 <iframe height="400px" width="100%" src="https://repl.it/@randomconst/randomconstructed?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 <br/>
-### What do you with these sets now?
+### What do you do with these sets now?
 
 1) Paste the link generated for you above into a browser to view and search the card pool.
 
-2) Use a deck building [site](https://deckstats.net/deckbuilder)/[program](https://cockatrice.github.io) to build a deck of minimum 60 cards with a maximum of 4 of each card. There is no ban list.
+2) Use a deck building [site](https://deckstats.net/deckbuilder)/[program](https://cockatrice.github.io) to build a deck of minimum 60 cards with a maximum of 4 of each card. There is no ban list!
 
 3) Play online or IRL against others you want to play the same format. If playing IRL you might need to [make some proxies]( http://mtgpress.net) unless you collection is extensive ;)
